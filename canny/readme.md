@@ -14,7 +14,7 @@
 
 ## 效果
 
-![屏幕快照 2019-05-20 下午2.16.26](https://github.com/wangchau/working/blob/master/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/canny/pic/res.png)
+![屏幕快照 2019-05-20 下午2.16.26](https://github.com/wangchau/Image-Processing/blob/master/canny/pic/res.png?raw=true)
 
 ## 参考文献
 

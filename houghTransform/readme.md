@@ -25,16 +25,14 @@ $$r = x*cos\theta + y*sin\theta$$
 
 ## 结果
 
-![canny](https://github.com/wangchau/working/blob/master/图像处理/houghTransform/pic/canny.jpg?raw=true)
+![canny](https://github.com/wangchau/Image-Processing/blob/master/houghTransform/pic/canny.jpg?raw=true)
 
-![accumulator](https://github.com/wangchau/working/blob/master/图像处理/houghTransform/pic/accumulator.jpg?raw=true)
+![accumulator](https://github.com/wangchau/Image-Processing/blob/master/houghTransform/pic/accumulator.jpg?raw=true)
 
 ## 优缺点
 
-- 优点：
-  　　Hough直线检测的优点是抗干扰能力强，对图像中直线的殘缺部分、噪声以及其它共存的非直线结构不敏感。
-- 缺点：
-  　　Hough变换算法的特点导致其时间复杂度和空间复杂度都很高，并且在检测过程中只能确定直线方向，丢失了线段的长度信息。
+- 优点：Hough直线检测的优点是抗干扰能力强，对图像中直线的殘缺部分、噪声以及其它共存的非直线结构不敏感。
+- 缺点：Hough变换算法的特点导致其时间复杂度和空间复杂度都很高，并且在检测过程中只能确定直线方向，丢失了线段的长度信息。
 
 ## 参考文献
 
